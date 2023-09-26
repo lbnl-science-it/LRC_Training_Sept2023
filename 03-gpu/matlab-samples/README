@@ -1,0 +1,4 @@
+Examples are taken from Mathworks
+https://www.mathworks.com/help/parallel-computing/illustrating-three-approaches-to-gpu-computing-the-mandelbrot-set.html
+
+openExample('parallel/paralleldemo_gpu_mandelbrot')
